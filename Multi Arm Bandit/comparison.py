@@ -1,3 +1,8 @@
+import numpy as np
+from scipy.stats import norm, beta, bernoulli
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 def compare(T):
   means = [.3, .25, .1]
   T = T # if your code breaks, or you want to debug, turn this value down to 100 and it will run faster

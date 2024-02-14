@@ -1,3 +1,8 @@
+import numpy as np
+from scipy.stats import norm, beta, bernoulli
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 def ThompsonSamplingSimulation(means, T):
     num_arms = len(means)
     total_reward = 0

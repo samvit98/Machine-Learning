@@ -48,7 +48,7 @@ The code performs the following steps:
 
 ## Output:
 
-- R-squared (Coefficient of Determination): 0.62
-- Mean Squared Error (MSE): 15396624.75
-- Root Mean Squared Error (RMSE): 3923.85
-- Mean Absolute Percentage Error (MAPE): 10.03
+- R-squared (Coefficient of Determination): 0.67
+- Mean Squared Error (MSE): 13889027.66
+- Root Mean Squared Error (RMSE): 3726.8
+- Mean Absolute Percentage Error (MAPE): 9.16
